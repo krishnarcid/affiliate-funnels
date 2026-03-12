@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Copy Sucks - Affiliate Tools</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Inter', sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            color: #fff;
+            min-height: 100vh;
+            padding: 40px;
+        }
+        h1 { font-size: 48px; text-align: center; margin-bottom: 20px; }
+        .subtitle { text-align: center; color: #a0a0b0; font-size: 20px; margin-bottom: 60px; }
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 24px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .card {
+            background: rgba(255,255,255,0.05);
+            border: 1px solid rgba(255,255,255,0.1);
+            border-radius: 16px;
+            padding: 30px;
+            text-decoration: none;
+            color: #fff;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 20px 40px rgba(0,0,0,0.3);
+        }
+        .card h2 { font-size: 24px; margin-bottom: 12px; }
+        .card p { color: #a0a0b0; line-height: 1.6; }
+        .card .commission {
+            display: inline-block;
+            margin-top: 16px;
+            padding: 8px 16px;
+            border-radius: 50px;
+            font-weight: 600;
+            font-size: 14px;
+        }
+        .semrush .commission { background: rgba(255,107,53,0.2); color: #ff6b35; }
+        .jasper .commission { background: rgba(130,89,253,0.2); color: #a78bfa; }
+        .systeme .commission { background: rgba(0,212,170,0.2); color: #00d4aa; }
+        .gohighlevel .commission { background: rgba(99,102,241,0.2); color: #818cf8; }
+        .notion .commission { background: rgba(255,255,255,0.1); color: #fff; }
+    </style>
+</head>
+<body>
+    <h1>🚀 Your Copy Sucks</h1>
+    <p class="subtitle">Tools we recommend for Indian SaaS growth</p>
+    
+    <div class="grid">
+        <a href="/semrush/" class="card semrush">
+            <h2>🔍 Semrush</h2>
+            <p>#1 SEO tool. Keyword research, site audits, competitor analysis.</p>
+            <span class="commission">₹2,500/sale</span>
+        </a>
+        
+        <a href="/jasper/" class="card jasper">
+            <h2>🤖 Jasper AI</h2>
+            <p>AI writing assistant. 10x your content output.</p>
+            <span class="commission">$40/mo</span>
+        </a>
+        
+        <a href="/systeme/" class="card systeme">
+            <h2>💎 Systeme.io</h2>
+            <p>All-in-one marketing platform. Funnels, emails, courses.</p>
+            <span class="commission">40% recurring</span>
+        </a>
+        
+        <a href="/gohighlevel/" class="card gohighlevel">
+            <h2>🏢 GoHighLevel</h2>
+            <p>Agency CRM. Automations, pipelines, voicemail drops.</p>
+            <span class="commission">40% + 5% sub</span>
+        </a>
+        
+        <a href="/notion/" class="card notion">
+            <h2>🧠 Notion</h2>
+            <p>All-in-one workspace. Notes, docs, projects, wikis.</p>
+            <span class="commission">50% lifetime</span>
+        </a>
+    </div>
+</body>
+</html>
