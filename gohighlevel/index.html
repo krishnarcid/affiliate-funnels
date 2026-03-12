@@ -90,7 +90,12 @@
             <span class="badge">🏢 Agency CRM #1</span>
             <h1>Run Your Agency<br><span class="gradient-text">On Autopilot</span></h1>
             <p class="subtitle">GoHighLevel replaces 10+ tools. Automations, CRM, pipelines, voicemail drops, SMS, email.</p>
-            <a href="https://www.gohighlevel.com/?fp_ref=hoyta" class="cta-button" target="_blank" rel="nofollow">Start 14-Day Trial →</a>
+            <!-- Email Capture -->
+            <div style="margin-top:30px; background: rgba(255,255,255,0.05); padding: 30px; border-radius: 16px; border: 1px solid rgba(255,255,255,0.1); text-align: left;">
+                <p style="margin-bottom: 15px; color: #fff; font-weight: 600;">📧 Get the "Agency Automation Checklist"</p>
+                <p style="margin-bottom: 20px; color: #a0a0b0; font-size: 14px;">Free PDF: 47 tools & workflows to automate your agency</p>
+                <a href="https://tally.so/r/npR8pW" class="cta-button" style="text-align: center; display: inline-block;">Get Free Checklist →</a>
+            </div>
         </div>
         
         <div class="stats">
@@ -137,5 +142,28 @@
             <p>Indian agencies → Automate → Scale</p>
         </div>
     </div>
+    <script>
+        document.getElementById('emailForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            const email = document.getElementById('email').value;
+            
+            // Save to Google Sheets (we'll set this up)
+            fetch('https://script.google.com/macros/s/YOUR_SCRIPT_ID/exec', {
+                method: 'POST',
+                mode: 'no-cors',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ email: email, source: 'gohighlevel', date: new Date().toISOString() })
+            }).catch(() => {}); // Silent fail
+            
+            // Show success
+            document.getElementById('success').style.display = 'block';
+            document.getElementById('emailForm').style.display = 'none';
+            
+            // Open affiliate link after 2 seconds
+            setTimeout(() => {
+                window.open('https://www.gohighlevel.com/?fp_ref=hoyta', '_blank');
+            }, 2000);
+        });
+    </script>
 </body>
 </html>
