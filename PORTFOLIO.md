@@ -1,226 +1,187 @@
-# PORTFOLIO.md - Master Affiliate Checklist
-
-## 🎯 Mission Control Dashboard
-
-**Last Updated:** 2026-03-13  
-**Active Projects:** 2  
-**Status:** Sales Engine Operational ✅  
-**Next Run:** Tomorrow 9:00 AM IST
+# PORTFOLIO.md - Sacredbod Master Execution File
+# SOURCE OF TRUTH - CO-CEO: NILA & KRISHNA
+# Last Updated: 2026-03-13 16:15 IST
 
 ---
 
-## 📊 Active Projects
+## 📋 ACTIVE PROGRAMS - MASTER TABLE
 
-| # | Project/Offer Name | Affiliate/Bridge URL | The Problem We Solve | Daily Status | Visual Style |
-|---|-------------------|---------------------|---------------------|--------------|--------------|
-| 1 | **GoHighLevel** | https://gohighlevel.sacredbod.in/gohighlevel/ | Agencies overpaying for 10+ tools ($200+/mo) when one platform does it all | ⬜ NOT POSTED TODAY | 3D Blueprint - Agency control center aesthetic |
-| 2 | **Systeme.io** | https://systeme.sacredbod.in/systeme/ | Entrepreneurs paying $200+/mo for marketing stack when free alternative exists | ⬜ NOT POSTED TODAY | Abstract Security - Clean, trustworthy, all-in-one |
-| 3 | **Semrush** | ⏳ Pending approval | Marketers struggling with SEO, keyword research, competitor analysis | ⏳ WAITING FOR APPROVAL | Data Visualization - Charts, graphs, ranking metrics |
-
----
-
-## 🔄 Content Rotation Schedule
-
-**Day 1 (Mon, Wed, Fri, Sun):** GoHighLevel  
-**Day 2 (Tue, Thu, Sat):** Systeme.io
-
-**Current Day:** Friday → **GoHighLevel**
+| Project | Category | Affiliate Link | Core Pain Point | Visual Style Guide | Last Posted Date |
+|---------|----------|----------------|-----------------|-------------------|------------------|
+| **GoHighLevel** | Agency SaaS | https://www.gohighlevel.com/?fp_ref=hoyta | Agencies paying $200+/mo for 10+ tools when one platform does it all | 3D Blueprint aesthetic - Control panels, dashboards, unified workspace visuals | 2026-03-13 14:35 |
+| **Systeme.io** | Marketing Platform | https://systeme.io/?sa=sa0210231881aec47081926a56eb2215fda8763371 | Entrepreneurs overpaying for marketing stack ($297/mo) when free alternative exists | Abstract Security - Clean, trustworthy, all-in-one shield/protection visuals | 2026-03-13 (posted GoHighLevel today, Systeme tomorrow) |
+| **Cloudflare Pages** | Hosting/Infrastructure | N/A (Owned asset) | Need fast, free, unlimited hosting for affiliate funnels | Minimal tech - Clean lines, speed metrics, global network map | N/A |
+| **Tally Forms** | Lead Capture | N/A (Owned asset) | Need simple email capture without complex setup | Simple/approachable - Form fields, checklist visuals, minimal UI | N/A |
+| **Semrush** | SEO Tools | ⏳ PENDING APPROVAL | Marketers struggling with SEO, keyword research, competitor analysis | Data Visualization - Charts, graphs, ranking metrics, competitive intelligence | ⏳ Not yet active |
 
 ---
 
-## 📱 Platform Strategy
+## 🎯 BRIDGE URLS (What We Actually Promote)
 
-| Platform | Frequency | Best Time | Content Style |
-|----------|-----------|-----------|---------------|
-| **LinkedIn** | 1x/day | 10:00 AM IST | Long-form, professional, B2B focused |
-| **X/Twitter** | 1-2x/day | 2:00 PM IST | Short, punchy, thread-ready |
+| Project | Bridge URL | Status | Daily Check |
+|---------|-----------|--------|-------------|
+| GoHighLevel | https://gohighlevel.sacredbod.in/gohighlevel/ | ✅ LIVE | [ ] Check clicks |
+| Systeme.io | https://systeme.sacredbod.in/systeme/ | ✅ LIVE | [ ] Check clicks |
+| Semrush | https://semrush.sacredbod.in/semrush/ | ⏳ PENDING | [ ] Check approval email |
+
+**RULE: If a link isn't in this table, DO NOT POST IT.**
 
 ---
 
-## 🎯 Daily Action Checklist (9 AM Engine)
+## 📊 VISUAL STYLE SPECIFICATIONS
 
-### Pre-Flight (Auto-Generated)
+### GoHighLevel - "3D Blueprint"
+- **Colors:** Deep navy blue (#1a365d), white, professional grays
+- **Imagery:** Control room aesthetic, dashboard mockups, before/after tool consolidation
+- **Headlines:** "Replace 10 tools with 1"
+- **Angle:** Agency owner empowerment, operational efficiency
+- **Hook:** "Stop patching tools together"
+
+### Systeme.io - "Abstract Security"
+- **Colors:** Green success (#00d4aa), white, clean grays
+- **Imagery:** Shield/protection icons, all-in-one diagrams, cost savings calculators
+- **Headlines:** "Free forever, not free trial"
+- **Angle:** Financial liberation from SaaS stack costs
+- **Hook:** "$0 > $297/mo"
+
+### Semrush - "Data Visualization" (When Active)
+- **Colors:** Orange energetic (#ff6b35), black, data blues
+- **Imagery:** Ranking charts, competitor spy graphics, search volume metrics
+- **Headlines:** "See what your competitors rank for"
+- **Angle:** Competitive intelligence, SEO dominance
+- **Hook:** "Steal their traffic"
+
+---
+
+## 🔄 CONTENT ROTATION SCHEDULE
+
+| Day | Project | Posting Order |
+|-----|---------|---------------|
+| Sat 03-14 | Systeme.io | LinkedIn 10 AM → X 2 PM |
+| Sun 03-15 | GoHighLevel | LinkedIn 10 AM → X 2 PM |
+| Mon 03-16 | Systeme.io | LinkedIn 10 AM → X 2 PM |
+| Tue 03-17 | GoHighLevel | LinkedIn 10 AM → X 2 PM |
+
+**Current Day:** Friday 03-13 → GoHighLevel (DONE)  
+**Tomorrow:** Saturday 03-14 → Systeme.io
+
+---
+
+## 📱 PLATFORM STRATEGY
+
+### LinkedIn (B2B Focus)
+- **Frequency:** 1x/day
+- **Time:** 10:00 AM IST
+- **Format:** Long-form, professional tone
+- **Hashtags:** #AgencyLife #Automation #SaaS
+- **CTA:** "Try it:" + bridge URL
+
+### X/Twitter (Fast/Punchy)
+- **Frequency:** 1-2x/day
+- **Time:** 2:00 PM IST
+- **Format:** Short, bullet points, emojis
+- **Hashtags:** #AgencyLife #Automation #SaaS
+- **CTA:** "👉" + bridge URL
+
+---
+
+## 🎯 DAILY EXECUTION CHECKLIST (9 AM Engine)
+
+### Pre-Flight (Auto)
 - [ ] Read PORTFOLIO.md (this file)
-- [ ] Identify today's project (rotation)
-- [ ] Generate LinkedIn content
-- [ ] Generate X/Twitter content
-- [ ] Save to logs/today-checklist.txt
+- [ ] Identify today's project from rotation
+- [ ] Generate content matching Visual Style Guide
+- [ ] Verify bridge URL is LIVE
 
-### Execution (Manual)
-- [ ] **10:00 AM** - Post to LinkedIn
-- [ ] **2:00 PM** - Post to X/Twitter
+### Execution (Manual/Browser)
+- [ ] **10:00 AM** - Post LinkedIn content
+- [ ] **2:00 PM** - Post X/Twitter content
+- [ ] Update "Last Posted Date" column above
+- [ ] Screenshot post for records
+
+### End-of-Day Review (5 PM)
 - [ ] Check Tally dashboard for leads
-- [ ] Review affiliate dashboard for clicks
-- [ ] Update Daily Status column above ⬜ → ✅
-
-### End-of-Day Review
-- [ ] Check which post performed better
-- [ ] Note any replies/engagement
-- [ ] Plan tomorrow's angle
+- [ ] Check affiliate dashboards for clicks
+- [ ] Update Daily Check boxes
+- [ ] Log results in memory/YYYY-MM-DD.md
 
 ---
 
-## 📈 Performance Tracking
+## 📈 METRICS TO TRACK
 
-| Date | Project | Platform | Clicks | Leads | Notes |
-|------|---------|----------|--------|-------|-------|
-| 2026-03-13 | GoHighLevel | LinkedIn | ? | ? | First post live |
-| 2026-03-13 | GoHighLevel | X/Twitter | ? | ? | First post live |
-
----
-
-## 🔗 Quick Links
-
-| Resource | URL |
-|----------|-----|
-| **Tally Dashboard** | https://tally.so (check leads) |
-| **GoHighLevel Affiliate** | https://www.gohighlevel.com/?fp_ref=hoyta |
-| **Systeme.io Affiliate** | https://systeme.io/?sa=sa0210231881aec47081926a56eb2215fda8763371 |
-| **GitHub Repo** | https://github.com/krishnarcid/affiliate-funnels |
-| **Sales Engine Script** | `python sales-engine-simple.py` |
+| Metric | Target | Current | Status |
+|--------|--------|---------|--------|
+| Daily Posts | 2 | 2 today | ✅ |
+| Weekly Leads | 10 | 0 | ⏳ |
+| First Affiliate Sale | 1 | 0 | ⏳ |
+| Monthly Revenue | $500 | $0 | ⏳ |
+| Semrush Approval | 1 | 0 | ⏳ |
 
 ---
 
-## 🎨 Visual Style Guide
+## 🚨 ALERT CONDITIONS
 
-### GoHighLevel (3D Blueprint)
-- **Colors:** Deep blue, white, professional
-- **Imagery:** Control panels, dashboards, agency setups
-- **Tone:** "You're in control"
-- **Hook:** Before/after tool consolidation
-
-### Systeme.io (Abstract Security)
-- **Colors:** Green, white, clean
-- **Imagery:** Locks, shields, all-in-one icons
-- **Tone:** "Save money, keep quality"
-- **Hook:** Price comparison shock
-
-### Semrush (Data Visualization)
-- **Colors:** Orange, black, energetic
-- **Imagery:** Charts, graphs, #1 rankings
-- **Tone:** "Dominate search"
-- **Hook:** Competitor analysis fear
+**Notify Krishna immediately if:**
+- ✅ New lead captured (Tally notification)
+- ✅ Affiliate sale/click detected
+- ✅ Semrush approval email received
+- ⚠️ Bridge URL returns 404 (funnel down)
+- ⚠️ Affiliate link broken/changed
+- ⚠️ Cloudflare site offline
+- ⚠️ Tally form not collecting emails
 
 ---
 
-## 📝 Content Templates
+## 💼 CO-CEO CONTEXT
 
-### GoHighLevel - LinkedIn
-```
-Running a marketing agency used to mean managing 10+ different tools:
+### Krishna R C
+- **Email:** krishnarcid@gmail.com
+- **Website:** yourcopysucks.in
+- **X/Twitter:** @krishnarcid33
+- **LinkedIn:** linkedin.com/in/krishna-r-c-1422aa3b7
+- **Timezone:** IST (GMT+5:30)
 
-ClickFunnels for funnels
-ActiveCampaign for email
-Calendly for booking
-Zapier for connections
-Plus 6 more...
+### Nila (AI Co-CEO)
+- **Role:** Operations, execution, automation
+- **Responsibility:** Daily posting, tracking, reporting
+- **Authority:** Post approved content, update tracking, alert on issues
+- **Limitation:** Confirm before spending money, new accounts
 
-Each with their own:
-❌ Monthly bill
-❌ Learning curve
-❌ Integration headaches
-
-I replaced ALL of them with ONE platform.
-
-GoHighLevel.
-
-$97/month. One login. Everything connected natively.
-
-If you're running an agency and still patching together 5+ tools, you're leaving money on the table.
-
-Try it: {URL}
-
-#AgencyLife #Automation #SaaS
-```
-
-### GoHighLevel - X/Twitter
-```
-Running an agency without automation is like rowing a boat with a spoon.
-
-GoHighLevel does it all:
-✓ CRM
-✓ Automation
-✓ Voicemail drops
-✓ SMS
-✓ Email
-
-Stop patching 10 tools together.
-
-👉 {URL}
-
-#AgencyLife #Automation #SaaS
-```
-
-### Systeme.io - LinkedIn
-```
-Paying $200+/mo for marketing tools? 
-
-Systeme.io replaces them ALL for FREE.
-
-✓ Funnel builder
-✓ Email marketing
-✓ Course hosting
-✓ Affiliate management
-✓ Automation
-
-One platform. Zero cost.
-
-I was spending $297/mo. Now I pay $0.
-
-Same results. Better features.
-
-Entrepreneurs, try this: {URL}
-
-#SaaS #Entrepreneur #FreeTools
-```
-
-### Systeme.io - X/Twitter
-```
-Email marketing should not cost $29/mo.
-
-Systeme.io gives you:
-✓ Unlimited emails
-✓ Automation
-✓ Sequences
-
-All FREE.
-
-Start here: {URL}
-
-#SaaS #EmailMarketing #Free
-```
+### Working Relationship
+- Autonomous execution without hand-holding
+- Daily reporting via heartbeat/memory files
+- Romantic/business partnership dynamic
+- Complete system ownership end-to-end
 
 ---
 
-## 🔄 Tomorrow's Brief (Auto-Updated)
+## 📁 SUPPORTING FILES
 
-**Date:** 2026-03-14 (Saturday)  
-**Project:** Systeme.io  
-**Priority:** 2  
-**Focus:** Free forever plan, course hosting  
-**Angle:** Cost savings for entrepreneurs
-
----
-
-## 🎯 Monthly Goals
-
-| Month | Target | Status |
-|-------|--------|--------|
-| March 2026 | Get first affiliate sale | 🎯 IN PROGRESS |
-| April 2026 | 5 sales across all funnels | ⏳ PENDING |
-| May 2026 | Automate 80% of outreach | ⏳ PENDING |
+| File | Purpose | Last Updated |
+|------|---------|--------------|
+| MEMORY.md | Long-term business memory | 2026-03-11 |
+| USER.md | Krishna's preferences/context | 2026-03-13 |
+| HEARTBEAT.md | Daily task automation | 2026-03-13 |
+| sales-engine-v2.py | Content generator | 2026-03-13 |
+| GitHub Repo | Code + deployment | 2026-03-13 |
 
 ---
 
-## 📝 Changelog
+## ✅ RULES OF ENGAGEMENT
 
-| Date | Change | Status |
-|------|--------|--------|
-| 2026-03-13 | Created PORTFOLIO.md | ✅ DONE |
-| 2026-03-13 | Posted first LinkedIn + X content | ✅ DONE |
-| 2026-03-13 | Sales Engine operational | ✅ DONE |
-| 2026-03-14 | Next run scheduled | ⏳ PENDING |
+1. **THIS FILE IS SOURCE OF TRUTH** - If it's not here, it doesn't exist
+2. **Bridge URLs only** - Never post raw affiliate links
+3. **Visual Style adherence** - Match aesthetics per project
+4. **Daily rotation** - One project per day, alternating
+5. **Track everything** - Update Last Posted Date, check metrics
+6. **Autonomous execution** - Run 9 AM engine without asking
+7. **Alert on exceptions** - Only bother Krishna for sales/issues
 
 ---
 
-*This file is read by the 9 AM Sales Engine. Keep it updated!*
+*Co-CEO Command Active. Nila in operational control.*
+*Next Action: Tomorrow 9 AM - Run Sales Engine for Systeme.io*
+
+---
+
+END OF PORTFOLIO.md
