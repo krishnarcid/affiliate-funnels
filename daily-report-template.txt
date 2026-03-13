@@ -1,0 +1,21 @@
+AUTONOMOUS SALES ENGINE - {date}
+================================================
+
+TODAY'S FUNNEL: {funnel}
+
+CONTENT READY:
+{content}
+
+ACTIONS:
+1. Copy content above
+2. Post to LinkedIn (10 AM)
+3. Post to X/Twitter (2 PM)  
+4. Check Tally for new leads
+5. Review affiliate dashboards
+
+Funnel URLs:
+- GoHighLevel: https://gohighlevel.sacredbod.in/gohighlevel/
+- Systeme.io: https://systeme.sacredbod.in/systeme/
+
+NEXT RUN: Tomorrow
+================================================
