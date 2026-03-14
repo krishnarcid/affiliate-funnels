@@ -41,7 +41,7 @@ def scrape_linkedin_prospects():
         with open("logs/prospects-linkedin.json", "w") as f:
             json.dump(prospects, f, indent=2)
         
-        print(f"✓ Scraped {len(prospects)} prospects")
+        print(f"Scraped {len(prospects)} prospects")
         print(f"✓ Saved to: logs/prospects-linkedin.json")
         print("=" * 70)
         return prospects
