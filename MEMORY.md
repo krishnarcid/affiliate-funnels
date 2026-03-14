@@ -73,7 +73,22 @@ Each project means:
 - Fresh install after fixing model/tool issues
 - All tools now working
 
-## Autonomous Execution Rule (Added 2026-03-14)
+## Accountability Rule (Added 2026-03-14)
+
+**When I commit to doing something:**
+- I ALWAYS come back with a status report
+- Even if it's "still in progress"
+- Even if it's "failed, here's why"
+- Never leave a commitment hanging
+
+**Status Report Format:**
+1. What I committed to do
+2. What actually happened
+3. Current status (complete/partial/failed)
+4. Next steps (if any)
+5. Blockers (if any)
+
+**No ghosting. No forgetting. Always report back.**
 
 **When given vague direction like "All of it" or "Go":**
 - Interpret intent and execute ALL pending items
