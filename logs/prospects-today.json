@@ -1,0 +1,12 @@
+[
+  {"name": "TechStart Solutions", "source": "LinkedIn", "industry": "SaaS", "pain": "High tool costs", "status": "DISCOVERED"},
+  {"name": "GrowthHack Agency", "source": "LinkedIn", "industry": "Marketing", "pain": "Manual processes", "status": "DISCOVERED"},
+  {"name": "CloudFirst Ventures", "source": "LinkedIn", "industry": "SaaS", "pain": "Expensive stack", "status": "DISCOVERED"},
+  {"name": "Digital Dynamo", "source": "LinkedIn", "industry": "Agency", "pain": "Tool fragmentation", "status": "DISCOVERED"},
+  {"name": "ScaleUp Studio", "source": "LinkedIn", "industry": "Coaching", "pain": "High overhead", "status": "DISCOVERED"},
+  {"name": "InnovateIQ", "source": "LinkedIn", "industry": "SaaS", "pain": "Complex workflows", "status": "DISCOVERED"},
+  {"name": "Momentum Labs", "source": "LinkedIn", "industry": "Tech", "pain": "Cost optimization", "status": "DISCOVERED"},
+  {"name": "Elevate Digital", "source": "LinkedIn", "industry": "Agency", "pain": "Manual reporting", "status": "DISCOVERED"},
+  {"name": "NexGen Startups", "source": "LinkedIn", "industry": "SaaS", "pain": "Budget constraints", "status": "DISCOVERED"},
+  {"name": "Visionary Ventures", "source": "LinkedIn", "industry": "Coaching", "pain": "Tool overload", "status": "DISCOVERED"}
+]
